@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "armsim": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Polar\\Documents\\Bob_Jones\\Year 4\\Senior - Semester 1\\CpSMicroP\\cps310-simulator-Blakthorne\\install"
+    }
+  }
+}

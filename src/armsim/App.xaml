@@ -1,0 +1,13 @@
+﻿<Application x:Class="armsim.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:armsim"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <FontFamily x:Key="UbuntuMono-Bold">pack://application:,,,/Fonts/#Ubuntu Mono Bold</FontFamily>
+        <FontFamily x:Key="UbuntuMono-Regular">pack://application:,,,/Fonts/#Ubuntu Mono Regular</FontFamily>
+        <FontFamily x:Key="SourceCodePro-Black">pack://application:,,,/Fonts/#Source Code Pro Black</FontFamily>
+        <FontFamily x:Key="SourceCodePro-Bold">pack://application:,,,/Fonts/#Source Code Pro Bold</FontFamily>
+        <FontFamily x:Key="PatuaOne-Regular">pack://application:,,,/Fonts/#Patua One Regular</FontFamily>
+    </Application.Resources>
+</Application>
