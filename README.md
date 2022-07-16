@@ -1,11 +1,4 @@
-### David Polar
-### CpS 310
-### December 12, 2021
-### Hours Spent on Execute 2 Phase: 26
-
-# New Features
-* CMP, B, BL, and BX instructions
-* IO using a dialog box
+# Created by David Polar
 
 # Overview
 The program can be opened via the command line with options and gracefully handles errors in the GUI. IF a file is not provided via the command line, the user can choose a file with the native file picker to load. Upon loading the file, it displays a memory dump, disassembly (with fake instructions), registers, flags, stack, and a terminal (not functional). The simulator can run or step through the program, stop while being run, reset execution, and add breakpoints. All of these commands are available thorugh the following keyboard shortcuts:
@@ -83,14 +76,3 @@ To run the program navigate into the *install* folder containing the *armsim.exe
 ## CMP
 
 ## B, BL, and BX
-
-# Bug Report
- - When a process encounters the SWI #0x6a instruction and opens a dialog box, the input thereafter entered by the user does not seem to consistently transfer to the console view. 
-
-# [Project Journal](https://bju-my.sharepoint.com/:w:/g/personal/dpola788_students_bju_edu/EXt4ZgzzNsJLopn05gNYZnMBlLCHVLLfYNuNRKAHfuI4fQ?e=dOEB1Y)  
-
-# Academic Integrity Statement
-
- By affixing my signature below, I certify that the accompanying work represents my own intellectual effort. Furthermore, I have received no outside help other than what is documented below.
-
-***David Lawrence Polar***
