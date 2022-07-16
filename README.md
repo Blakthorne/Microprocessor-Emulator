@@ -20,7 +20,7 @@ The simulator will run the program on a background thread so as to not lock up t
 
 # Prerequisites
  - Windows 10 operating system
- - Visual Studio 2019
+ - .NET Core Desktop Runtime
  - MSTest.TestAdapter
  - MSTest.TestFramework
  - CommandLineParser distributed by gsscoder,nemec,ericnewton76,moh-hassan
