@@ -2,6 +2,8 @@
 
 ## A more detailed description can be found [here](report.pdf), in the *Technical Report*.
 
+![Program Screenshot](/armsim_screenshot.png)
+
 # Overview
 The program can be opened via the command line with options and gracefully handles errors in the GUI. IF a file is not provided via the command line, the user can choose a file with the native file picker to load. Upon loading the file, it displays a memory dump, disassembly (with fake instructions), registers, flags, stack, and a terminal (not functional). The simulator can run or step through the program, stop while being run, reset execution, and add breakpoints. All of these commands are available thorugh the following keyboard shortcuts:
  - Load file: `Ctrl-O`
